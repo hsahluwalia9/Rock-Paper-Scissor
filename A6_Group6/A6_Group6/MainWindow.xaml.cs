@@ -47,7 +47,8 @@ namespace A6_Group6
 
         private void BtnBegin_Click(object sender, RoutedEventArgs e)
         {
-          
+            vm.Random();
+            CompMove.Text = "Please choose an option below.";
         }
     }
 }
