@@ -97,9 +97,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Paper.bmp" />
-    <Resource Include="Rock.bmp" />
-    <Resource Include="Scissors.bmp" />
+    <Resource Include="images\Paper.bmp" />
+    <Resource Include="images\Rock.bmp" />
+    <Resource Include="images\Scissors.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
